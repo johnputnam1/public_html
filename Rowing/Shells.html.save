@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Different Types of Rowing Shells</title>
+        <style>
+                @import url(index.css);
+        </style>
+</head>
+<!--
+As you can see, I did more rearranging of files in your website, including
+making changes to this homepage, seems it appears you didn't read my comment
+from last week.
+
+Time to choose a project and apply what you've learned up to now on creating
+a website of your very own.
+
+~ JE 2020-11-15
+-->
+<!--
+I did a bit of editing on this page, John, but this shouldn't be your homepage,
+it should be the index.html page inside a gdw subdirectory. Let's talk next
+week about that.
+~ JE 2020-11-03
+-->
+<body>
+<section>
+<h1>List of The Different Types of Rowing Shells</h1>
+<ol>
+	<li>Hudson 8 Seat Shell</li>
+	<li>Hudson Quad</li>
+	<li>Hudson Pair</li>
+        <li>Hudson Single Scull</li>
+	<li>Resolute 8 Seat Shell</li>
+        <li>Resolute Quad</li>
+	<li>Resolute Pair</li>
+        <li>Resolute Single Scull</li>
+	<li>Vespoli 8 Seat Shell</li>
+        <li>Vespoli Quad</li>
+	<li>Vespoli Pair</li>
+        <li>Vespoli Single Scull</li>
+</ol>
+</section>
+<section>
+<h1>Different Types of Rowing Shells With Photos and More Information</h1>
+<ul>
+	<li>
+		<h2>Hudson</h2>
+		<ul>
+			<li>
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_X2RuCuxmdlPhMsEa8yLQMyVQQ_kXtonp8Q&usqp=CAU" alt="Hudson 8 Seat Shell">
+				<dl>
+					<dt><b>Hudson 8 Seat Shell</b></dt>
+					<dd>This is top-of-the-line 8 seat racing shell.</dd>
+				</dl>
+			</li>
+			<li>
+				<img src="https://www.yvnewyork.com/wp-content/uploads/2015/10/IMG_3093.jpg" alt="Hudson 4 Shell" width="25%">
+				<dl>	
+					<dt><b>Hudson Quad</b></dt>
+					<dd>This is a 4 four person coxed racing shell.</dd>
+				</dl>
+			</li>
+			<li>
+				<img src="https://c8.alamy.com/comp/BN0YXG/two-man-racing-shell-boat-with-crew-rowing-BN0YXG.jpg" alt="Hudson Pair" width="25%">
+				<dl>
+					<dt><b>Hudson Pair</b></dt>
+					<dd>This is a boat that can hold two people who both hold two oars to power the boat.</dd>
+				</dl> 
+			</li>
+			<li>
+				<img src="https://stcroixrowing.org/wp-content/uploads/2019/12/cropped-SingleScullHeader.jpg" alt="Hudson Single Scull" width="25%">
+				<dl>
+					<dt><b>Hudson Single Scull</b></dt>
+					<dd>This shell is powered by one person who holds two oars.</dd>
+				</dl>				
+			</li>
+		</ul>		
+	</li>
+	
+	<li>
+		 <h2>Resolute</h2>
+                <ul>    
+			<li>
+				<img src="https://www.resoluteracing.com/sites/default/files/styles/blog/public/resolute-racingshells-banner.jpg?itok=Lt56RuoO alt="Resolute 8" width="75%">
+				<dl>
+					<dt><b>Resolute 8 Seat Shell</b></dt>
+					<dd>This is a mediocre 8 seat racing shell.</dd>
+				</dl> 
+			</li>
+                        <li>
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbSeIUYsrl97opkI_KS-cpipybWx6MGB5mJw&usqp=CAU" alt="Resolute Quad">
+				<dl>
+					<dt><b>Resolute Quad</b></dt>
+					<dd>This is a mediocre 4 four person coxed racing shell.</dd>
+				</dl>
+			</li>
+                        <li>
+				<img src="https://www.resoluteracing.com/sites/all/themes/resoluteracing/images/boat-z2.png" alt="Resolute Pair" width ="50%">
+				<dl>
+                                        <dt><b>Resolute Pair</b></dt>
+                                        <dd>This is a mediocre boat that can hold two people who both hold two oars to power the boat.</dd>
+                                </dl>
+			</li>
+                        <li>
+                              <img src="https://www.resoluteracing.com/sites/default/files/styles/blog/public/11753722_1651848048386135_4567144479025564785_n.jpg?itok=YkDsXgFy" alt="Resolute Single Scull
+                                                                                                                                                                                       ">
+				<dl>
+                                        <dt><b>Resolute Single Scull</b></dt>
+                                        <dd>This mediocre shell is powered by one person who holds two oars.</dd>
+                                </dl>
+			</li>
+                </ul>
+        </li>
+	
+	<li>
+ 		<h2>Vespoli</h2>
+                <ul>    
+			<li>
+				<img src="https://www.vespoli.com/wp-content/uploads/2019/10/JM8_YNC19-1024x575.jpg" alt="Vespoli 8" width="50%">
+				<dl>
+                                        <dt><b>Vespoli 8 Seat Shell</b></dt>
+                                        <dd>This is a low-end 8 seat racing shell.</dd>
+                                </dl>
+
+			</li>
+                        <li>
+				<img src="https://www.vespoli.com/wp-content/uploads/2019/10/JW4-1024x575.jpg" alt="Vespoli Quad" width="50%">
+				 <dl>
+                                        <dt><b>Vespoli Quad</b></dt>
+                                        <dd>This is a low-end 4 four person coxed racing shell.</dd>
+                                </dl>
+			</li>
+                        <li>
+				<img src="https://www.vespoli.com/wp-content/uploads/2019/04/vhp-2-1.jpg" alt="Vespoli Pair" width="50%">
+				 <dl>
+                                        <dt><b>Vespoli Pair</b></dt>
+                                        <dd>This is a low-end boat that can hold two people who both hold two oars to power the boat.</dd>
+                                </dl>
+			</li>
+                        <li>
+				<img src="https://www.vespoli.com/wp-content/uploads/2019/10/DSC07852-1024x575.jpg" alt="Vespoli Single" width="50%">
+				<dl>
+                                        <dt><b>Vespoli Single Scull</b></dt>
+                                        <dd>This low-end shell is powered by one person who holds two oars.</dd>
+                                </dl>
+			</li>
+                </ul>
+        </li>
+</ul>
+</section>
+<h4>Go Back</h4><ul>
+   <li><a href="index.html">Return Back To The Project Homepage</a></li>
+</ul>
+<h4>Go Back Home</h4>
+<ul>
+   <li><a href="../index.html">Return Back to the Main Homepage</a></li>
+</ul>
+<footer style="text-align: center;">
+<a href="http://validator.w3.org/check/referer">
+<strong> HTML </strong> Valid! </a>
+<a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3">
+<strong> CSS </strong> Valid! </a>
+</footer>
+</body>
+</html>
+

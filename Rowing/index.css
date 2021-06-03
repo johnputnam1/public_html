@@ -1,0 +1,23 @@
+body {
+	background-color: #00FF00;
+}
+
+h1 {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6, ul{
+	margin-left: 40%;
+	font-style: italic;
+}
+
+a:hover {
+	font-style: italic;
+	color: #CC55CC;
+}
+
+a:visited {
+	font-weight: bold;
+	color: #AA33BB;
+}
